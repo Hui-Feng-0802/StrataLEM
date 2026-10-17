@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+results/
+private_data/
+*.gsz
+*.dxf
+*.dwg
+*.env
+*.key
+*.pem

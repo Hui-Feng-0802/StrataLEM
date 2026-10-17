@@ -1,0 +1,15 @@
+{
+  "description": "Synthetic demonstration only; not a mine case or manuscript dataset.",
+  "surface_csv": "demo_surface.csv",
+  "materials": [
+    {
+      "name": "Synthetic homogeneous material",
+      "c": 12.0,
+      "phi": 28.0,
+      "gamma": 19.0,
+      "polygon": [[-100,-100],[100,-100],[100,100],[-100,100]]
+    }
+  ],
+  "search": {"entry_segment": -2, "exit_segment": 0, "points_per_segment": 2, "sagitta_samples": 15},
+  "slices": 50
+}
