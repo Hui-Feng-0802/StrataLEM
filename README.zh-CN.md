@@ -75,3 +75,10 @@ python -m unittest discover -s tests -v
 保留`slp.plot('min')`调用；支持`plot('all')`和`plot('thd',threshold=1.20)`。
 `slp.save_plots('results/case')`一次保存全部计算图，格式为600dpi RGB/LZW TIFF、PNG、PDF和SVG。
 详细设置及绘图工作流参考见`FIGURES.md`。
+
+## 许可证
+
+版权所有 (c) 2026 Hui Feng。
+
+StrataLEM 当前版本采用 GNU 通用公共许可证第3版（仅限第3版，`GPL-3.0-only`）。
+完整许可条款见 [`LICENSE`](LICENSE)。
